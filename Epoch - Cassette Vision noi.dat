@@ -3,7 +3,7 @@
 	<header>
 		<name>Epoch - Cassette Vision</name>
 		<description>Epoch - Cassette Vision</description>
-		<version>20260116-095800</version>
+		<version>20260116-125900</version>
 		<author>mittonk</author>
 		<homepage>Github</homepage>
 		<url>https://github.com/mittonk/epoch-cassette-vision-dat</url>
@@ -34,7 +34,7 @@
 		<rom name="Big Sports 12 (Japan) (En).ptn777" size="832" crc="f8557c03" sha1="87dde9d007d6a5a7bce4bd36e7f101ae766f5435" md5="2aa018d26f65ce78a063ecda0f6b556e"/>
 	</game>
 	<game name="Elevator Panic (Japan) (En)">
-		<year>1981</year>
+		<year>1984</year>
 		<manufacturer>Epoch</manufacturer>
 		<rom name="Elevator Panic (Japan) (En).bin777" size="8448" crc="8164e95a" sha1="a880095a22e0b218cc8ad44cdcc59748bae894c0" md5="afe7d3aa55fc7d5726ee0c9bfec2b5c9"/>
 		<rom name="Elevator Panic (Japan) (En).ptn777" size="832" crc="56342845" sha1="3acaa542d0a865b72f1e2e3f16dfcfc397cc3298" md5="021acd359affca3675d0f49c5f9a3ced"/>
@@ -46,25 +46,25 @@
 		<rom name="Galaxian (Japan) (En).ptn777" size="832" crc="23396aa7" sha1="5fbc51c15317f922c15b76a9aec3187ba22e4e60" md5="e5a97123e1c4d676a22a9138d0e219e1"/>
 	</game>
 	<game name="Monster Block (Japan) (En)">
-		<year>1981</year>
+		<year>1984</year>
 		<manufacturer>Epoch</manufacturer>
 		<rom name="Monster Block (Japan) (En).bin777" size="8448" crc="651ea590" sha1="40e2eef7134d04b07632f0f645feede549909349" md5="9860ca1bc7a308d14afa4ebfb7b1df12"/>
 		<rom name="Monster Block (Japan) (En).ptn777" size="832" crc="58535b98" sha1="a3b63f889db49ad43b76c16eb58a21984a36de8e" md5="f460d4dbdcc844255b3740cdf93d4a3e"/>
 	</game>
 	<game name="Monster Mansion (Japan) (En)">
-		<year>1981</year>
+		<year>1982</year>
 		<manufacturer>Epoch</manufacturer>
 		<rom name="Monster Mansion (Japan) (En).bin777" size="8448" crc="82f17a67" sha1="21eceadff6dd2dc3727d0a6d558e730b5d0e3f2c" md5="71f4d9b3fa376b5ae70fb23b8b3f1f8a"/>
 		<rom name="Monster Mansion (Japan) (En).ptn777" size="832" crc="0cbe7499" sha1="442062b9e34c07785d2adada523ae0427f7ec67d" md5="2533759612408712a7f51cf42aaba059"/>
 	</game>
 	<game name="New Baseball (Japan) (En)">
-		<year>1981</year>
+		<year>1982</year>
 		<manufacturer>Epoch</manufacturer>
 		<rom name="New Baseball (Japan) (En).bin777" size="8448" crc="63d3723a" sha1="3a63fdcd380cfaa4475262c9fe4ea2b52727ef3a" md5="d40532c9305f400f5c6e87e1ef433c59"/>
 		<rom name="New Baseball (Japan) (En).ptn777" size="832" crc="80ff673e" sha1="904fd53334e171a9a160340d12c41262c8ecff48" md5="69222dc2afaa715dd70a7b1960bd41e1"/>
 	</game>
 	<game name="Pak Pak Monster (Japan) (En)">
-		<year>1981</year>
+		<year>1982</year>
 		<manufacturer>Epoch</manufacturer>
 		<rom name="Pak Pak Monster (Japan) (En).bin777" size="8448" crc="2d93fd56" sha1="7b0f8c1ab8a90ea0d7aabb53edf486854d70b95e" md5="0dda1933d5cedbf13cada9e24460ca7e"/>
 		<rom name="Pak Pak Monster (Japan) (En).ptn777" size="832" crc="1661a38a" sha1="5a73c7a045d411596e63e3b9a604877f22f174b3" md5="9f7934e31d6c10746bc9e8ac96df462f"/>
