@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<datafile>
+	<header>
+		<name>Epoch - Cassette Vision</name>
+		<description>Epoch - Cassette Vision</description>
+		<version>20260114-121300</version>
+		<author>mittonk</author>
+		<homepage>Github</homepage>
+		<url>https://github.com/mittonk/epoch-cassette-vision-dat</url>
+		<romvault/>
+	</header>
+	<game name="Astro Command (1983)(Epoch)(JP)">
+		<year>1983</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Astro Command.bin777" size="8448" crc="1092a5fa" sha1="b8e535051caebead3e493824129d178beab833ab" md5="b5c6a8c3ebd366ea800d35286107a2b7"/>
+		<rom name="Astro Command.ptn777" size="832" crc="c4c72f7c" sha1="790f45b8ef2710b02323e3e9e348017e0d8bf414" md5="2a9b03dd09899e4de32061630b410890"/>
+	</game>
+	<game name="Baseball (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Baseball.bin777" size="8448" crc="d22bd361" sha1="bc5eaa78ae385ae8a969efb59ab4a051ddce744e" md5="b7fe95a64b5a32f9da0b2343c0bb0a95"/>
+		<rom name="Baseball.ptn777" size="832" crc="21495f9a" sha1="18cc6d317272ee918dc435a2c23ab83782268518" md5="008d4f9603f24de742906940b39631da"/>
+	</game>
+	<game name="Battle Vader (1982)(Epoch)(JP)">
+		<year>1982</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Battle Vader.bin777" size="8448" crc="349d9fd4" sha1="c1ad82c953828af2c0f45090ace570733eb48909" md5="10f5401cacfbd2a95103e30de22dfb33"/>
+		<rom name="Battle Vader.ptn777" size="832" crc="e9d332f1" sha1="581aa5325861d471532c910c290745bfd1fcec23" md5="155250322a0d29e890605e48a8885240"/>
+	</game>
+	<game name="Big Sports 12 (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Big Sports 12.bin777" size="8448" crc="d5dedf3c" sha1="6e37795d679a565486ab4c14d2b3bdb5e84356f6" md5="f1457d8e41b5a1c3be9deacabd42bb27"/>
+		<rom name="Big Sports 12.ptn777" size="832" crc="f8557c03" sha1="87dde9d007d6a5a7bce4bd36e7f101ae766f5435" md5="2aa018d26f65ce78a063ecda0f6b556e"/>
+	</game>
+	<game name="Elevator Panic (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Elevator Panic.bin777" size="8448" crc="8164e95a" sha1="a880095a22e0b218cc8ad44cdcc59748bae894c0" md5="afe7d3aa55fc7d5726ee0c9bfec2b5c9"/>
+		<rom name="Elevator Panic.ptn777" size="832" crc="56342845" sha1="3acaa542d0a865b72f1e2e3f16dfcfc397cc3298" md5="021acd359affca3675d0f49c5f9a3ced"/>
+	</game>
+	<game name="Galaxian (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Galaxian.bin777" size="8448" crc="93ed2665" sha1="0ea3abab455456567a8f02ce66ee9b3e09e9e4ab" md5="5614772a7c2ea5a601950fc959b7f9a9"/>
+		<rom name="Galaxian.ptn777" size="832" crc="23396aa7" sha1="5fbc51c15317f922c15b76a9aec3187ba22e4e60" md5="e5a97123e1c4d676a22a9138d0e219e1"/>
+	</game>
+	<game name="Monster Block (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Monster Block.bin777" size="8448" crc="651ea590" sha1="40e2eef7134d04b07632f0f645feede549909349" md5="9860ca1bc7a308d14afa4ebfb7b1df12"/>
+		<rom name="Monster Block.ptn777" size="832" crc="58535b98" sha1="a3b63f889db49ad43b76c16eb58a21984a36de8e" md5="f460d4dbdcc844255b3740cdf93d4a3e"/>
+	</game>
+	<game name="Monster Mansion (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Monster Mansion.bin777" size="8448" crc="82f17a67" sha1="21eceadff6dd2dc3727d0a6d558e730b5d0e3f2c" md5="71f4d9b3fa376b5ae70fb23b8b3f1f8a"/>
+		<rom name="Monster Mansion.ptn777" size="832" crc="0cbe7499" sha1="442062b9e34c07785d2adada523ae0427f7ec67d" md5="2533759612408712a7f51cf42aaba059"/>
+	</game>
+	<game name="New Baseball (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="New Baseball.bin777" size="8448" crc="63d3723a" sha1="3a63fdcd380cfaa4475262c9fe4ea2b52727ef3a" md5="d40532c9305f400f5c6e87e1ef433c59"/>
+		<rom name="New Baseball.ptn777" size="832" crc="80ff673e" sha1="904fd53334e171a9a160340d12c41262c8ecff48" md5="69222dc2afaa715dd70a7b1960bd41e1"/>
+	</game>
+	<game name="Pak Pak Monster (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Pak Pak Monster.bin777" size="8448" crc="2d93fd56" sha1="7b0f8c1ab8a90ea0d7aabb53edf486854d70b95e" md5="0dda1933d5cedbf13cada9e24460ca7e"/>
+		<rom name="Pak Pak Monster.ptn777" size="832" crc="1661a38a" sha1="5a73c7a045d411596e63e3b9a604877f22f174b3" md5="9f7934e31d6c10746bc9e8ac96df462f"/>
+	</game>
+	<game name="Yosaku (1981)(Epoch)(JP)">
+		<year>1981</year>
+		<manufacturer>Epoch</manufacturer>
+		<rom name="Yosaku.bin777" size="8448" crc="5ce82ff2" sha1="473dea955cfa198285a7470b209329e2c28903b1" md5="e319530e86e0425a1e58353bc62567b6"/>
+		<rom name="Yosaku.ptn777" size="832" crc="6be99d85" sha1="8b40e0a3fffbf6fb81036b99d8481a5f025d54dd" md5="0a63abc21bb105ad18e3454a0309c364"/>
+	</game>
+</datafile>
