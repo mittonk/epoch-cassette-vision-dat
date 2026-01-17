@@ -1,13 +1,16 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
 <datafile>
 	<header>
-		<name>Epoch - Cassette Vision</name>
-		<description>Epoch - Cassette Vision</description>
-		<version>20260116-125900</version>
+		<name>Epoch Cassette Vision - Games</name>
+		<description>Epoch Cassette Vision - Games (TOSEC-v2026-XX-XX)</description>
+		<category>TOSEC</category>
+		<version>20260116-222800</version>
 		<author>mittonk</author>
-		<homepage>Github</homepage>
-		<url>https://github.com/mittonk/epoch-cassette-vision-dat</url>
-		<romvault/>
+		<email>contact@tosecdev.org</email>
+		<homepage>TOSEC</homepage>
+		<url>http://www.tosecdev.org/</url>
 	</header>
 	<game name="Astro Command (1983)(Epoch)(JP)">
 		<description>Astro Command (1983)(Epoch)(JP)</description>
